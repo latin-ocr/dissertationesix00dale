@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesix00dale_0008.png"; bbox 0 0 2139 3100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 681 195 1712 642">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 681 195 1712 642">
+     <span class='ocr_line' id='line_1_1' title="bbox 1141 195 1281 253; baseline 0.021 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1141 195 1188 250; x_wconf 92' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1229 197 1281 253; x_wconf 91' lang='lat' dir='ltr'>C</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 761 323 1636 385; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 761 323 1337 385; x_wconf 73' lang='lat' dir='ltr'>SERElestI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1379 324 1636 383; x_wconf 75' lang='lat' dir='ltr'>REGIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 681 454 1712 515; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 681 454 1712 515; x_wconf 72' lang='lat' dir='ltr'>MAGNAE.BR1TTANN1AE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 940 584 1470 642; baseline -0.006 0"><span class='ocrx_word' id='word_1_6' title='bbox 940 584 1470 642; x_wconf 70' lang='lat' dir='ltr'>HISTORICO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 534 845 1864 1293">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 534 845 1864 1293">
+     <span class='ocr_line' id='line_1_5' title="bbox 534 845 1864 907; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 534 848 792 907; x_wconf 84' lang='lat' dir='ltr'>VIRIS.</span> <span class='ocrx_word' id='word_1_8' title='bbox 852 845 1467 904; x_wconf 79' lang='lat' dir='ltr'>ERVDITIONE.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1520 846 1864 905; x_wconf 79' lang='lat' dir='ltr'>SVMM1S</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 985 976 1415 1061; baseline -0.005 -28"><span class='ocrx_word' id='word_1_10' title='bbox 985 976 1415 1061; x_wconf 52' lang='lat' dir='ltr'>HASSVAS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 804 1107 1613 1167; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 804 1107 1613 1167; x_wconf 78' lang='lat' dir='ltr'>DISSERTATIONES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1010 1236 1345 1293; baseline -0.012 0"><span class='ocrx_word' id='word_1_12' title='bbox 1010 1238 1078 1293; x_wconf 87' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1152 1236 1220 1291; x_wconf 89' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1296 1236 1345 1289; x_wconf 85' lang='lat' dir='ltr'>D</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1135 2066 2027 2135">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1135 2066 2027 2135">
+     <span class='ocr_line' id='line_1_9' title="bbox 1135 2066 2027 2135; baseline -0.007 -6"><span class='ocrx_word' id='word_1_15' title='bbox 1135 2073 1629 2135; x_wconf 87' lang='lat' dir='ltr'>ANTONIUS</span> <span class='ocrx_word' id='word_1_16' title='bbox 1667 2086 1760 2126; x_wconf 84' lang='lat' dir='ltr'>van</span> <span class='ocrx_word' id='word_1_17' title='bbox 1799 2066 2027 2123; x_wconf 90' lang='lat' dir='ltr'>DALE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

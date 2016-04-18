@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesix00dale_0006.png"; bbox 0 0 2253 3100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 416 1201 1328 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 416 1201 1328 1329">
+     <span class='ocr_line' id='line_1_1' title="bbox 416 1201 1328 1329; baseline 0.005 -28.153"><span class='ocrx_word' id='word_1_1' title='bbox 403 1201 576 1329; x_wconf 50' lang='grc' dir='ltr'><strong>,1,ἕῖ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 594 1228 816 1309; x_wconf 43' lang='lat' dir='ltr'><strong>:ww</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 829 1235 882 1312; x_wconf 99' lang='grc' dir='ltr'>Ἰ</span> <span class='ocrx_word' id='word_1_4' title='bbox 896 1251 1050 1311; x_wconf 52' lang='lat' dir='ltr'><strong>&lt;m</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1051 1203 1328 1329; x_wconf 46' lang='lat' dir='ltr'><strong>w5⁶“&#39;&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2253 3100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2253 3100">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2253 3100; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2253 3100; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
